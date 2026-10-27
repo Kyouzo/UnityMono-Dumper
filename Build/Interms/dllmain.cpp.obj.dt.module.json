@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Z:\\FMM\\CODPC\\Unity-Mono-Dumper\\Build\\Interms\\dllmain.obj",
+            "outputs": [
+                "Z:\\FMM\\CODPC\\Unity-Mono-Dumper\\Build\\Interms\\dllmain.cpp.obj.dt.module.json",
+                "Z:\\FMM\\CODPC\\Unity-Mono-Dumper\\Build\\Interms\\dllmain.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
